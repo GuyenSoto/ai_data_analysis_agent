@@ -1,0 +1,8 @@
+#name: ai_coding_agent_o3-mini
+#channels:
+#  - defaults
+#dependencies:
+#  - python=3.13
+#  - pip
+#  - pip:
+#    - -r requirements.txt
